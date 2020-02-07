@@ -1,4 +1,8 @@
-Sample456
+<<<<<<< HEAD
+
+=======
+Sample123
+>>>>>>> separate-files
 
 Sample Test
 
